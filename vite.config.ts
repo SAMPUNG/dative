@@ -8,11 +8,11 @@ export default defineConfig(() => ({
   build: {
     chunkSizeWarningLimit: 500,
     devSourcemap: true,
-    lib: {
-      entry: resolve(__dirname, 'src/core/index.ts'),
-      name: 'dati',
-      fileName: 'dati',
-    },
+    // lib: {
+    //   entry: resolve(__dirname, 'src/core/index.ts'),
+    //   name: 'dati',
+    //   fileName: 'dati',
+    // },
     manifest: true,
     target: 'modules',
     sourcemap: false,

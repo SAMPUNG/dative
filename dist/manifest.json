@@ -1,0 +1,21 @@
+{
+  "src/typescript.svg": {
+    "file": "assets/typescript.f6ead1af.svg",
+    "src": "src/typescript.svg"
+  },
+  "index.html": {
+    "file": "assets/index.9a6a54f1.js",
+    "src": "index.html",
+    "isEntry": true,
+    "css": [
+      "assets/index.d5a34e39.css"
+    ],
+    "assets": [
+      "assets/typescript.f6ead1af.svg"
+    ]
+  },
+  "index.css": {
+    "file": "assets/index.d5a34e39.css",
+    "src": "index.css"
+  }
+}
